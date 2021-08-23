@@ -10,3 +10,12 @@ a {
 img {
   width: 100%;
 }
+
+.advantages .article_list {
+  text-align: center;
+  list-style: georgian inside url(./assets/checkmark.svg);
+}
+
+.rank li {
+  display: flex;
+}
